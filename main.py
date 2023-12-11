@@ -7,6 +7,6 @@ if __name__ == "__main__":
     city_name = input("Insert a city:\n")
 
     # import the weather data of the city
-    weather_dict = import_weather_by_city()
+    weather_dict = import_weather_by_city(city_name)
 
     pass
