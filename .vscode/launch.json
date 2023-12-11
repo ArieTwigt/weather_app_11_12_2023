@@ -5,11 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python: Argparse",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["--diameter=100", "--rounding=2"]
+        },
+        {
             "name": "Debug: Weather",
             "type": "python",
             "request": "launch",
             "program": "main.py",
-            "python":"${workspaceRoot}/venv/bin/python",
+            "python": "${workspaceRoot}/venv/bin/python",
             //"python":"${workspaceRoot}/venv/Scripts/python",
             "console": "integratedTerminal",
             "justMyCode": true

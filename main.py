@@ -1,21 +1,30 @@
-from weather_functions.import_functions import import_weather_by_city
-from weather_functions.conversion_functions import convert_list_to_df
+from custom_modules.calculation_functions import calc_circle
+import argparse
 
-if __name__ == "__main__":
 
-    # get the name of the city
-    city_names = input("Insert a city:\n")
+# initate a argument parser instance
+parser = argparse.ArgumentParser()
 
-    # split to a list
-    city_names_list = city_names.split(" ")
+# add arguments to the parser
+parser.add_argument("--diameter", "-d", 
+                    type=float, 
+                    required=True, 
+                    help="Required: The diameter of the circle")
 
-    # import the weather data of the city
-    weather_list = import_weather_by_city(city_names_list)
+parser.add_argument("--rounding", "-r", 
+                    type=int, 
+                    required=False, 
+                    default=1, 
+                    help="Optional: Rounding for the value")
 
-    # convert to pandas DataFrames
-    weather_df = convert_list_to_df(weather_list)
 
-    # export to csv
-    weather_df.to_csv("export.csv")
+# parse the arguments
+args = parser.parse_args()
 
-    pass
+if __name__ == '__main__':
+    my_diameter = args.diameter
+    my_rounding = args.rounding
+    
+    my_circle = calc_circle(my_diameter, rounding=my_rounding)
+    
+    print(my_circle)
