@@ -1,5 +1,4 @@
-from weather_functions.import_functions import import_weather_by_city
-from weather_functions.conversion_functions import convert_list_to_df
+from weather.weather import WeatherPrediction
 import argparse
 
 
@@ -32,19 +31,18 @@ if __name__ == "__main__":
     export_type = args.export_type
     export_name = args.export_name
 
+    # initiate a WeatherPrediction instance
+    prediction = WeatherPrediction(cities)
 
-    # import the weather data of the city
-    weather_list = import_weather_by_city(cities)
+    # call the method to generate predictions
+    prediction.import_weather_by_city()
 
-    # convert to pandas DataFrames
-    weather_df = convert_list_to_df(weather_list)
+    # convert the predictions to a DataFrame
+    prediction.convert_list_to_df()
 
-    # based on the export
-    if export_type == 'csv':
-        print("Exporting to csv")
-        weather_df.to_csv(f"{export_name}.csv",
-                          index=False)
+
+    if export_type == "csv":
+    # export the DataFrame
+        prediction.export_data(export_name)
     else:
-        print(weather_df)
-
-    pass
+        print(prediction.show_predictions_df())

@@ -35,7 +35,8 @@
             "justMyCode": true,
             "args": [
                 "--cities=Amsterdam, Leiden, Utrecht, Den Haag",
-                "-e=print"
+                "-e=csv",
+                "-en=voorspellingen"
             ]
         },
         {
