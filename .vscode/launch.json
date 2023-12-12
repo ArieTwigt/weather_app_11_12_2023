@@ -27,6 +27,18 @@
             ]
         },
         {
+            "name": "Python: Weather Argparse",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--cities=Amsterdam, Leiden, Utrecht, Den Haag",
+                "-e=print"
+            ]
+        },
+        {
             "name": "Debug: Weather",
             "type": "python",
             "request": "launch",

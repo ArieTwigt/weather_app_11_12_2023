@@ -1,0 +1,121 @@
+date,temperature,feels_like,rain,description,city
+2023-12-12 12:00:00,7.73,5.2,0.0,broken clouds,Amsterdam
+2023-12-12 15:00:00,8.33,5.98,2.91,light rain,Amsterdam
+2023-12-12 18:00:00,8.43,6.27,0.85,light rain,Amsterdam
+2023-12-12 21:00:00,8.01,6.47,3.52,moderate rain,Amsterdam
+2023-12-13 00:00:00,8.16,5.65,1.0,light rain,Amsterdam
+2023-12-13 03:00:00,8.12,5.47,0.11,light rain,Amsterdam
+2023-12-13 06:00:00,8.08,5.82,0.54,light rain,Amsterdam
+2023-12-13 09:00:00,8.12,6.43,0.1,light rain,Amsterdam
+2023-12-13 12:00:00,8.87,8.4,0.0,overcast clouds,Amsterdam
+2023-12-13 15:00:00,8.25,7.24,0.0,overcast clouds,Amsterdam
+2023-12-13 18:00:00,7.64,5.61,0.14,light rain,Amsterdam
+2023-12-13 21:00:00,6.6,3.87,0.0,overcast clouds,Amsterdam
+2023-12-14 00:00:00,5.87,3.17,0.11,light rain,Amsterdam
+2023-12-14 03:00:00,5.66,2.94,0.0,overcast clouds,Amsterdam
+2023-12-14 06:00:00,5.74,3.28,0.0,overcast clouds,Amsterdam
+2023-12-14 09:00:00,5.84,3.85,0.0,overcast clouds,Amsterdam
+2023-12-14 12:00:00,6.69,4.95,0.16,light rain,Amsterdam
+2023-12-14 15:00:00,6.17,4.43,0.0,overcast clouds,Amsterdam
+2023-12-14 18:00:00,5.13,3.16,0.0,broken clouds,Amsterdam
+2023-12-14 21:00:00,6.21,4.15,0.0,overcast clouds,Amsterdam
+2023-12-15 00:00:00,6.57,4.58,0.17,light rain,Amsterdam
+2023-12-15 03:00:00,7.25,5.41,0.11,light rain,Amsterdam
+2023-12-15 06:00:00,7.62,5.34,0.0,overcast clouds,Amsterdam
+2023-12-15 09:00:00,7.78,5.85,0.0,overcast clouds,Amsterdam
+2023-12-15 12:00:00,8.65,6.37,0.0,overcast clouds,Amsterdam
+2023-12-15 15:00:00,7.45,5.09,0.0,broken clouds,Amsterdam
+2023-12-15 18:00:00,6.35,3.81,0.0,broken clouds,Amsterdam
+2023-12-15 21:00:00,6.43,3.67,0.0,overcast clouds,Amsterdam
+2023-12-16 00:00:00,6.97,3.87,0.0,overcast clouds,Amsterdam
+2023-12-16 03:00:00,7.98,4.91,0.0,overcast clouds,Amsterdam
+2023-12-16 06:00:00,8.43,5.53,0.0,overcast clouds,Amsterdam
+2023-12-16 09:00:00,8.46,5.44,0.0,overcast clouds,Amsterdam
+2023-12-16 12:00:00,9.61,6.79,0.0,overcast clouds,Amsterdam
+2023-12-16 15:00:00,8.86,5.93,0.0,broken clouds,Amsterdam
+2023-12-16 18:00:00,8.69,5.54,0.0,broken clouds,Amsterdam
+2023-12-16 21:00:00,9.37,5.83,0.0,overcast clouds,Amsterdam
+2023-12-17 00:00:00,9.92,6.53,0.0,overcast clouds,Amsterdam
+2023-12-17 03:00:00,9.42,5.7,0.0,broken clouds,Amsterdam
+2023-12-17 06:00:00,9.17,5.4,0.0,overcast clouds,Amsterdam
+2023-12-17 09:00:00,9.11,5.48,0.0,few clouds,Amsterdam
+2023-12-12 12:00:00,8.54,5.67,0.18,light rain,Den Haag
+2023-12-12 15:00:00,9.41,6.4,1.83,light rain,Den Haag
+2023-12-12 18:00:00,9.29,6.49,1.14,light rain,Den Haag
+2023-12-12 21:00:00,8.91,6.18,2.79,light rain,Den Haag
+2023-12-13 00:00:00,8.99,5.63,0.79,light rain,Den Haag
+2023-12-13 03:00:00,8.9,5.71,0.28,light rain,Den Haag
+2023-12-13 06:00:00,8.82,5.85,0.27,light rain,Den Haag
+2023-12-13 09:00:00,8.63,6.34,0.0,overcast clouds,Den Haag
+2023-12-13 12:00:00,9.18,7.74,0.0,overcast clouds,Den Haag
+2023-12-13 15:00:00,9.2,8.0,0.0,overcast clouds,Den Haag
+2023-12-13 18:00:00,8.34,5.74,0.0,overcast clouds,Den Haag
+2023-12-13 21:00:00,7.6,4.39,0.16,light rain,Den Haag
+2023-12-14 00:00:00,7.09,3.71,0.21,light rain,Den Haag
+2023-12-14 03:00:00,6.96,3.6,0.0,overcast clouds,Den Haag
+2023-12-14 06:00:00,7.04,3.97,0.0,overcast clouds,Den Haag
+2023-12-14 09:00:00,7.11,4.18,0.12,light rain,Den Haag
+2023-12-14 12:00:00,7.7,4.99,0.14,light rain,Den Haag
+2023-12-14 15:00:00,7.62,4.78,0.0,overcast clouds,Den Haag
+2023-12-14 18:00:00,7.11,4.36,0.0,broken clouds,Den Haag
+2023-12-14 21:00:00,7.64,5.04,0.0,overcast clouds,Den Haag
+2023-12-15 00:00:00,7.98,5.42,0.0,overcast clouds,Den Haag
+2023-12-15 03:00:00,8.28,5.65,0.14,light rain,Den Haag
+2023-12-15 06:00:00,8.53,5.63,0.18,light rain,Den Haag
+2023-12-15 09:00:00,8.65,6.01,0.13,light rain,Den Haag
+2023-12-15 12:00:00,8.75,5.76,0.1,light rain,Den Haag
+2023-12-15 15:00:00,8.29,5.7,0.0,scattered clouds,Den Haag
+2023-12-15 18:00:00,7.96,5.14,0.0,broken clouds,Den Haag
+2023-12-15 21:00:00,7.97,4.8,0.0,overcast clouds,Den Haag
+2023-12-16 00:00:00,8.16,4.82,0.0,overcast clouds,Den Haag
+2023-12-16 03:00:00,8.5,5.0,0.0,overcast clouds,Den Haag
+2023-12-16 06:00:00,8.78,5.44,0.0,overcast clouds,Den Haag
+2023-12-16 09:00:00,8.79,5.2,0.0,overcast clouds,Den Haag
+2023-12-16 12:00:00,9.43,6.1,0.0,overcast clouds,Den Haag
+2023-12-16 15:00:00,9.11,5.77,0.0,scattered clouds,Den Haag
+2023-12-16 18:00:00,9.02,5.32,0.0,broken clouds,Den Haag
+2023-12-16 21:00:00,9.63,5.78,0.0,overcast clouds,Den Haag
+2023-12-17 00:00:00,9.84,6.12,0.0,overcast clouds,Den Haag
+2023-12-17 03:00:00,9.53,5.42,0.0,broken clouds,Den Haag
+2023-12-17 06:00:00,9.4,5.26,0.0,broken clouds,Den Haag
+2023-12-17 09:00:00,9.26,5.2,0.0,scattered clouds,Den Haag
+2023-12-12 12:00:00,7.92,5.4,0.13,light rain,Utrecht
+2023-12-12 15:00:00,8.81,6.54,1.44,light rain,Utrecht
+2023-12-12 18:00:00,8.13,5.62,1.56,light rain,Utrecht
+2023-12-12 21:00:00,8.0,5.74,1.38,light rain,Utrecht
+2023-12-13 00:00:00,7.58,4.87,0.19,light rain,Utrecht
+2023-12-13 03:00:00,8.07,5.16,0.0,overcast clouds,Utrecht
+2023-12-13 06:00:00,7.91,5.29,0.0,overcast clouds,Utrecht
+2023-12-13 09:00:00,8.02,6.01,0.0,overcast clouds,Utrecht
+2023-12-13 12:00:00,8.1,7.15,0.0,overcast clouds,Utrecht
+2023-12-13 15:00:00,7.99,7.99,0.0,overcast clouds,Utrecht
+2023-12-13 18:00:00,7.5,6.01,0.19,light rain,Utrecht
+2023-12-13 21:00:00,7.21,5.28,0.0,overcast clouds,Utrecht
+2023-12-14 00:00:00,6.31,3.56,0.0,overcast clouds,Utrecht
+2023-12-14 03:00:00,5.6,2.79,0.0,overcast clouds,Utrecht
+2023-12-14 06:00:00,5.39,2.48,0.0,overcast clouds,Utrecht
+2023-12-14 09:00:00,5.65,3.29,0.0,overcast clouds,Utrecht
+2023-12-14 12:00:00,6.3,4.74,0.0,overcast clouds,Utrecht
+2023-12-14 15:00:00,6.1,4.47,0.13,light rain,Utrecht
+2023-12-14 18:00:00,4.07,1.9,0.0,broken clouds,Utrecht
+2023-12-14 21:00:00,4.29,1.82,0.0,broken clouds,Utrecht
+2023-12-15 00:00:00,5.67,3.34,0.0,broken clouds,Utrecht
+2023-12-15 03:00:00,5.96,3.67,0.13,light rain,Utrecht
+2023-12-15 06:00:00,6.53,4.46,0.0,overcast clouds,Utrecht
+2023-12-15 09:00:00,6.89,4.94,0.0,overcast clouds,Utrecht
+2023-12-15 12:00:00,7.52,5.54,0.0,overcast clouds,Utrecht
+2023-12-15 15:00:00,6.68,4.33,0.0,overcast clouds,Utrecht
+2023-12-15 18:00:00,4.89,2.05,0.0,broken clouds,Utrecht
+2023-12-15 21:00:00,4.41,1.32,0.0,overcast clouds,Utrecht
+2023-12-16 00:00:00,4.8,1.07,0.0,broken clouds,Utrecht
+2023-12-16 03:00:00,5.32,1.66,0.0,overcast clouds,Utrecht
+2023-12-16 06:00:00,6.31,2.79,0.0,overcast clouds,Utrecht
+2023-12-16 09:00:00,6.38,2.79,0.0,overcast clouds,Utrecht
+2023-12-16 12:00:00,9.27,6.25,0.0,overcast clouds,Utrecht
+2023-12-16 15:00:00,8.84,5.84,0.0,overcast clouds,Utrecht
+2023-12-16 18:00:00,8.85,5.47,0.0,overcast clouds,Utrecht
+2023-12-16 21:00:00,9.2,5.6,0.0,overcast clouds,Utrecht
+2023-12-17 00:00:00,9.59,6.15,0.0,overcast clouds,Utrecht
+2023-12-17 03:00:00,9.26,5.49,0.0,overcast clouds,Utrecht
+2023-12-17 06:00:00,9.05,5.16,0.0,overcast clouds,Utrecht
+2023-12-17 09:00:00,9.1,5.33,0.0,broken clouds,Utrecht

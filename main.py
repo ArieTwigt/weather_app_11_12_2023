@@ -1,10 +1,6 @@
 from custom_modules.calculation_functions import calc_circle
 import argparse
 
-float()
-int()
-str()
-[]
 
 # initate a argument parser instance
 parser = argparse.ArgumentParser()
